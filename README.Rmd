@@ -104,7 +104,7 @@ tibble::tibble(Evento = c(rep("Semana Nacional da Ciência e Tecnologia", 2),
 
 # Produções e publicações realizadas
 
-```{r}
+```{r, eval = knitr::is_latex_output()}
 vitae::bibliography_entries("refs.bib")
 ```
 
