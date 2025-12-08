@@ -12,6 +12,9 @@ date: "`r format(Sys.time(), '%B %Y')`"
 output:
   vitae::twentyseconds
 always_allow_html: true
+header-includes:
+  - \renewcommand{\normalsize}{\fontsize{12.5}{14}\selectfont}
+  - \renewcommand{\Large}{\fontsize{14}{16}\selectfont}
 ---
 
 ```{r setup, include=FALSE}
