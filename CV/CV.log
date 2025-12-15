@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.12.8)  8 DEC 2025 16:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.12.15)  15 DEC 2025 11:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -530,26 +530,26 @@ File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 ) (./CV.aux)
 \openout1 = `CV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' will be
-(Font)              scaled to size 12.5pt on input line 113.
+(Font)              scaled to size 12.5pt on input line 112.
 \c@mv@tabular=\count335
 \c@mv@boldtabular=\count336
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
@@ -592,7 +592,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 113.
+Package hyperref Info: Link coloring OFF on input line 112.
 (./CV.out) (./CV.out)
 \@outlinefile=\write4
 \openout4 = `CV.out'.
@@ -600,73 +600,78 @@ Package hyperref Info: Link coloring OFF on input line 113.
 <edbbio.jpeg, id=7, 653.44125pt x 653.44125pt>
 File: edbbio.jpeg Graphic file (type jpg)
 <use edbbio.jpeg>
-Package pdftex.def Info: edbbio.jpeg  used on input line 122.
+Package pdftex.def Info: edbbio.jpeg  used on input line 121.
 (pdftex.def)             Requested size: 142.26378pt x 142.2619pt.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 122.
+(Font)              scaled to size 20.74pt on input line 121.
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--122
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
 [][][]\T1/ClearSans-TLF/m/n/20.74 Edson Nil-ton de
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' will be
-(Font)              scaled to size 14.0pt on input line 122.
-LaTeX Font Info:    Calculating math sizes for size <12.5> on input line 122.
+(Font)              scaled to size 14.4pt on input line 121.
+LaTeX Font Info:    Calculating math sizes for size <12.5> on input line 121.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <12.5> not available
-(Font)              size <12> substituted on input line 122.
+(Font)              size <12> substituted on input line 121.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <12.5> not available
-(Font)              size <12> substituted on input line 122.
+(Font)              size <12> substituted on input line 121.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <12.5> not available
-(Font)              size <12> substituted on input line 122.
+(Font)              size <12> substituted on input line 121.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12.5> on input line 122.
+(Font)              <12.5> on input line 121.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8.74995> on input line 122.
+(Font)              <8.74995> on input line 121.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6.25> on input line 122.
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 122.
+(Font)              <6.25> on input line 121.
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 121.
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 122--122
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
 []\T1/ClearSans-TLF/m/n/12.5 Programa de Pós-
  []
 
 
-Underfull \hbox (badness 4673) in paragraph at lines 122--122
+Underfull \hbox (badness 4673) in paragraph at lines 121--121
 \T1/ClearSans-TLF/m/n/12.5 Graduação em Bi-olo-gia
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--122
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
 \T1/ClearSans-TLF/m/n/12.5 Zo-olo-gia, Uni-ver-si-dade
  []
 
-LaTeX Font Info:    Trying to load font information for T1+DejaVuSansMono-TLF on input line 122.
+LaTeX Font Info:    Trying to load font information for T1+DejaVuSansMono-TLF on input line 121.
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/dejavu/T1DejaVuSansMono-TLF.fd
 File: T1DejaVuSansMono-TLF.fd 2011/06/01 Font definitions for T1/DejaVuSansMono-TLF.
 )
 LaTeX Font Info:    Font shape `T1/DejaVuSansMono-TLF/m/n' will be
-(Font)              scaled to size 10.75pt on input line 122.
+(Font)              scaled to size 10.75pt on input line 121.
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--122
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
 [][]$\T1/DejaVuSansMono-TLF/m/n/12.5 edsonbbiologia @ gmail .
  []
 
 
-Underfull \hbox (badness 2126) in paragraph at lines 129--137
-\T1/ClearSans-TLF/m/n/12.5 (2024-atualmente). At-ual-mente, em-prego pesquisa so-bre
+Underfull \hbox (badness 1259) in paragraph at lines 128--137
+\T1/ClearSans-TLF/m/n/12.5 de ecolo-gia, con-ser-vação, movi-men-tação e dis-tribuição de
  []
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 129--137
-\T1/ClearSans-TLF/m/n/12.5 de ecolo-gia, con-ser-vação, movi-men-tação e dis-tribuição de
+Underfull \hbox (badness 2005) in paragraph at lines 138--141
+[]\T1/ClearSans-TLF/m/n/12.5 Possuo con-hec-i-mento avançado em lin-guagem de pro-gra-
+ []
+
+
+Underfull \hbox (badness 4205) in paragraph at lines 138--141
+\T1/ClearSans-TLF/m/n/12.5 geoes-pa-ci-ais, e con-hec-i-men-tos ini-ci-ais em lin-guagem de
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' will be
@@ -692,16 +697,16 @@ LaTeX Font Info:    Font shape `TS1/ClearSans-TLF/m/n' will be
 [1
 
 {c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/clearsans/clr_zxbkm4.enc}{c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/clearsans/clr_bjsdl7.enc}{c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/dejavu/dejavumono_t1-type1.enc} <./edbbio.jpeg>]
-Underfull \hbox (badness 10000) in paragraph at lines 217--227
+Underfull \hbox (badness 10000) in paragraph at lines 218--228
 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/it' will be
-(Font)              scaled to size 12.5pt on input line 239.
+(Font)              scaled to size 12.5pt on input line 240.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sl' in size <10> not available
-(Font)              Font shape `T1/ClearSans-TLF/m/it' tried instead on input line 274.
+(Font)              Font shape `T1/ClearSans-TLF/m/it' tried instead on input line 278.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 274.
+(Font)              scaled to size 10.0pt on input line 278.
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
@@ -714,20 +719,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 15.4pt, for example:
 (fancyhdr)                \setlength{\footskip}{15.4pt}.
 
-[2]
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 15.4pt, for example:
-(fancyhdr)                \setlength{\footskip}{15.4pt}.
-
-[3] (./CV.aux)
+[2] (./CV.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-14>
@@ -741,18 +733,18 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
  )
 (\end occurred when \ifnum on line 31 was incomplete) 
 Here is how much of TeX's memory you used:
- 23363 strings out of 469519
- 436507 string characters out of 5467704
- 834254 words of memory out of 5000000
- 51599 multiletter control sequences out of 15000+600000
+ 23359 strings out of 469519
+ 436386 string characters out of 5468163
+ 835248 words of memory out of 5000000
+ 51597 multiletter control sequences out of 15000+600000
  678546 words of font info for 69 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 117i,11n,121p,580b,779s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,11n,121p,580b,781s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/truetype/intel/clearsans/ClearSans-Regular.ttf><c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/truetype/intel/clearsans/ClearSans-Regular.ttf><c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb><c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono.pfb><c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb>
-Output written on CV.pdf (3 pages, 215461 bytes).
+Output written on CV.pdf (2 pages, 215000 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
+ 59 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -13,8 +13,7 @@ output:
   vitae::twentyseconds
 always_allow_html: true
 header-includes:
-  - \renewcommand{\normalsize}{\fontsize{12.5}{14}\selectfont}
-  - \renewcommand{\Large}{\fontsize{14}{16}\selectfont}
+  - \renewcommand{\normalsize}{\fontsize{12.5}{12.5}\selectfont}
 ---
 
 ```{r setup, include=FALSE}
@@ -25,11 +24,11 @@ library(tidyverse)
 
 # Apresentação
 
-Sou bacharel em Ciências Biológicas pela Universidade Federal de Pernambuco (2019-2023) e mestrando em Biologia Animal pelo Programa de Pós Grdauação em Biologia Animal – UFPE (2024-atualmente). Atualmente, emprego pesquisa sobre como gradientes ambientais afetam a diversidade de anfíbios anuros. Além disso, sou colaborador em projetos externos de ecologia, conservação, movimentação e distribuição de espécies de anfíbios anuros. Sou consultor e treinador na área de ciência de dados, estatística e programação, com ênfase em dados biológicos e ambientais.
+Sou bacharel em Ciências Biológicas pela Universidade Federal de Pernambuco (2019-2023) e mestrando em Biologia Animal pelo Programa de Pós-Graduação em Biologia Animal – UFPE (2024-atualmente). Atualmente, desenvolvo pesquisa sobre como gradientes ambientais afetam a diversidade de anfíbios anuros. Além disso, sou colaborador em projetos externos de ecologia, conservação, movimentação e distribuição de espécies de anfíbios anuros e sua distribuição. Sou consultor e treinador na área de ciência de dados, estatística e programação, com ênfase em dados biológicos e ambientais.
 
-Possuo conhecimento avançado em linguagem de programação R, voltado à análises de diversidade biólogica e análises geoespaciais, e conhecimentos iniciais em linguagem Python.
+Possuo conhecimento avançado em linguagem de programação R, voltado a análises de diversidade biológica e análises geoespaciais, e conhecimentos iniciais em linguagem de programação Python.
 
-Possuo interesse nas áreas de biosidversidade, ecologia, conservação e herpetologia, com experiência em taxonomia e biologia de anfíbios anuros, assim como estatística, programação de geoestatística.
+Possuo interesse nas áreas de biodiversidade, ecologia, conservação e herpetologia, com experiência em taxonomia e biologia de anfíbios anuros, assim como estatística, programação e geoestatística.
 
 # Educação
 
@@ -39,7 +38,7 @@ tibble::tibble(Grau = c("Bacharel em Ciências Biológicas",
                Ano = c("2019-2023",
                        "2024-"),
                Instituição = c("Universidade Federal de Pernambuco",
-                               "Programa de Pós Graduação em Biologia Animal"),
+                               "Programa de Pós-Graduação em Biologia Animal"),
                Onde = c("Recife, Pernambuco, Brasil",
                         "Recife, Pernambuco, Brasil")) |>  
   vitae::detailed_entries(Grau, Ano, Instituição, Onde)
@@ -49,29 +48,29 @@ tibble::tibble(Grau = c("Bacharel em Ciências Biológicas",
 
 ## Idiomas
 
--   Portugûes: entende bem, fala bem, lê bem e escreve bem;
+-   Português: entende bem, fala bem, lê bem e escreve bem;
 -   Inglês: entende bem, fala bem, lê bem e escreve bem;
 
 ## Habilidades de campo
 
--   Amostragem, identificação e catologação de espécies anfíbios anuros;
--   Amostragem, identificação e catologação de variáveis ambientais.
+-   Amostragem, identificação e catalogação de espécies de anfíbios anuros;
+-   Amostragem, identificação e catalogação de variáveis ambientais.
 
 ## Tecnologia e dados
 
--   Linguagem R: tratamento e organização de dados, através de tidyverse;
+-   Linguagem R: tratamento e organização de dados, por meio de tidyverse;
 -   Linguagem R: modelagem e interpretação de modelos lineares;
 -   Linguagem R: modelagem e interpretação de modelos multidimensionais;
--   Linguagem R: modelagem e intrepretação de modelos de diversidade taxonômica, filogenética e funcional;
+-   Linguagem R: modelagem e interpretação de modelos de diversidade taxonômica, filogenética e funcional;
 -   Linguagem R: modelagem de distribuição de espécies;
--   Linguagem R: criação e confecção de gráficos avançados, através de ggplot;
--   Linguagem R: criação e confecção de mapas, através de ggplot;
--   Linguagem R: modelagem e análises de dados geoespaciais simples e avançados;
--   Linguagem R: automação de processos seriados, através de purrr;
+-   Linguagem R: criação e confecção de gráficos avançados, por meio de ggplot;
+-   Linguagem R: criação e confecção de mapas, por meio de ggplot;
+-   Linguagem R: modelagem e análise de dados geoespaciais simples e avançados;
+-   Linguagem R: automação de processos seriados, por meio de purrr;
 -   Linguagem R: modelagem e análises de dados de abertura de dossel;
 -   Linguagem R: modelagem e criação de dados geoespaciais;
--   Google Earth Pro: modelagem e criação de dados geoespaciais;
--   QGIS: modelage e criação de dados geoespaciais, criação e confecção de mapas.
+-   Google Earth Pro: modelagem e criação de objetos e dados geoespaciais;
+-   QGIS: modelagem e criação de objetos e dados geoespaciais, criação e confecção de mapas.
 
 # Participação em Eventos
 
@@ -93,7 +92,7 @@ tibble::tibble(Evento = c(rep("Semana Nacional da Ciência e Tecnologia", 2),
                         "Mentoria: Base de Dados Biológicos",
                         "Palestra: Bioinformática Aplicada à Ecologia",
                         "Minicurso: Análises Geoespaciais com R",
-                        "Poster: Diversidade Taxonômica e Filogenética de Anfíbios Anuros do Centro de Endemismo Pernambuco",
+                        "Pôster: Diversidade Taxonômica e Filogenética de Anfíbios Anuros do Centro de Endemismo Pernambuco",
                         "Avaliador de trabalhos",
                         "Minicurso: Ecologia e Evolução de Herpetofauna"),
                Onde = c(rep("Universidade Federal de Pernambuco, Recife", 3),
@@ -111,7 +110,7 @@ tibble::tibble(Evento = c(rep("Semana Nacional da Ciência e Tecnologia", 2),
 vitae::bibliography_entries("refs.bib")
 ```
 
-# Produções em andamentio:
+# Produções em andamento:
 
 -   Artigo: Distribuição de *Allobates olfersioides*;
 
