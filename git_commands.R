@@ -4,11 +4,11 @@ library(gert)
 
 # Adding files ----
 
-gert::git_add(list.files(pattern = "set_")) |> as.data.frame()
+gert::git_add(list.files(pattern = "commads")) |> as.data.frame()
 
 # Commit file ----
 
-gert::git_commit("Script to set github repository")
+gert::git_commit("Script to git commands")
 
 # Push ----
 
