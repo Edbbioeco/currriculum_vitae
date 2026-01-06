@@ -2,7 +2,7 @@
 
 library(usethis)
 
-# Iniciando ----
+# Iniciando o git ----
 
 usethis::use_git()
 
