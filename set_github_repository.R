@@ -16,7 +16,7 @@ usethis::use_git_config(user.name = "Edbbioeco",
 usethis::proj_get()
 
 usethis::use_git_remote(name = "origin",
-                        url = "https://github.com/Edbbioeco/currriculum_vitaes.git",
+                        url = "https://github.com/Edbbioeco/currriculum_vitae.git",
                         overwrite = TRUE)
 
 # Renomear o branch do master para main ----
