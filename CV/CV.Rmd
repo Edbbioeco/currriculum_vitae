@@ -112,10 +112,8 @@ vitae::bibliography_entries("refs.bib")
 
 # Produções em andamento:
 
--   Artigo: Distribuição de *Allobates olfersioides* (aceito, em produção);
-
 -   Artigo: Descrição de canto agonístico de *Phyllomedusa teraploidea* (em revisão);
 
 -   Artigo: Diversidade Taxonômica e Filogenética de anfíbios do Centro de Endemismo Pernambuco (não submetido);
 
--   Artigo: Padrões de diversidade de espécies de anfíbios anuros na Mata Atlântica do Paraná (não submetido.
+-   Artigo: Padrões de diversidade de espécies de anfíbios anuros na Mata Atlântica do Paraná (não submetido).
