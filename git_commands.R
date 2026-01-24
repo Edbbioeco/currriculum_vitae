@@ -4,11 +4,11 @@ library(gert)
 
 # Adding files ----
 
-gert::git_add(list.files(pattern = ".md")) |> as.data.frame()
+gert::git_add(list.files(pattern = "git_commands.R")) |> as.data.frame()
 
 # Commit file ----
 
-gert::git_commit("README.md")
+gert::git_commit("Script para comandos git")
 
 # Push ----
 
