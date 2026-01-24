@@ -4,11 +4,11 @@ library(gert)
 
 # Adding files ----
 
-gert::git_add(list.files(pattern = "commads")) |> as.data.frame()
+gert::git_add(list.files(pattern = ".md")) |> as.data.frame()
 
 # Commit file ----
 
-gert::git_commit("Script to git commands")
+gert::git_commit("README.md")
 
 # Push ----
 
@@ -20,4 +20,18 @@ gert::git_pull()
 
 # Aborting commits ----
 
+gert::git_reset_mixed()
+
+gert::git_reset_soft(ref = "HEAD")
+
 gert::git_reset_hard(ref = "HEAD")
+
+# Rempvendo arquivos ----
+
+gert::git_rm(list.files(pattern = ""))
+
+gert::git_commit("")
+
+gert::git_push(remote = "origin", force = TRUE)
+
+gert::git_pull()
