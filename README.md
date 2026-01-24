@@ -1,3 +1,3 @@
 # Curriculum vitae
 
-> Check CV/CV.pdf to acess.
+> Check CV/CV.pdf to acess my curriculum vitae.
