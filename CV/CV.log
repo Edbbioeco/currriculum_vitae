@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.12.15)  6 JAN 2026 12:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.12.15)  3 MAR 2026 18:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -703,10 +703,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 218--228
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/it' will be
 (Font)              scaled to size 12.5pt on input line 237.
+
+Underfull \hbox (badness 2865) in paragraph at lines 247--247
+[]|\T1/ClearSans-TLF/m/n/12.5 M. Silva-Júnior, E. N. de, Mascarenhas-Junior, P. B.,
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 247--247
+\T1/ClearSans-TLF/m/n/12.5 Leandro-Silva, V., & Simões, P. I. (2026). Mod-el-ing
+ []
+
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sl' in size <10> not available
-(Font)              Font shape `T1/ClearSans-TLF/m/it' tried instead on input line 284.
+(Font)              Font shape `T1/ClearSans-TLF/m/it' tried instead on input line 288.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 284.
+(Font)              scaled to size 10.0pt on input line 288.
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
@@ -719,7 +729,20 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 15.4pt, for example:
 (fancyhdr)                \setlength{\footskip}{15.4pt}.
 
-[2] (./CV.aux)
+[2]
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 15.4pt, for example:
+(fancyhdr)                \setlength{\footskip}{15.4pt}.
+
+[3] (./CV.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-14>
@@ -733,18 +756,18 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
  )
 (\end occurred when \ifnum on line 31 was incomplete) 
 Here is how much of TeX's memory you used:
- 23361 strings out of 469519
- 436417 string characters out of 5468163
- 835281 words of memory out of 5000000
- 51598 multiletter control sequences out of 15000+600000
+ 23364 strings out of 469519
+ 436456 string characters out of 5468163
+ 836315 words of memory out of 5000000
+ 51599 multiletter control sequences out of 15000+600000
  678546 words of font info for 69 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  117i,11n,121p,580b,781s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/truetype/intel/clearsans/ClearSans-Regular.ttf><c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/truetype/intel/clearsans/ClearSans-Regular.ttf><c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb><c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono.pfb><c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb>
-Output written on CV.pdf (2 pages, 216254 bytes).
+Output written on CV.pdf (3 pages, 217349 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 44 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
+ 67 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 

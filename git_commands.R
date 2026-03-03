@@ -4,11 +4,11 @@ library(gert)
 
 # Adding files ----
 
-gert::git_add(list.files(pattern = "git_commands.R")) |> as.data.frame()
+gert::git_add(list.files(pattern = "CV/CV.pdf")) |> as.data.frame()
 
 # Commit file ----
 
-gert::git_commit("Script para comandos git")
+gert::git_commit("Curriculum Vitae")
 
 # Push ----
 
