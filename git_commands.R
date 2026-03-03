@@ -2,13 +2,18 @@
 
 library(gert)
 
+# Listing files ----
+
+gert::git_status()
+
 # Adding files ----
 
-gert::git_add(list.files(pattern = "CV/CV.pdf")) |> as.data.frame()
+gert::git_add(list.files(pattern = "git_commands.R")) |>
+  as.data.frame()
 
 # Commit file ----
 
-gert::git_commit("Curriculum Vitae")
+gert::git_commit("Script to Git commands")
 
 # Push ----
 
@@ -16,15 +21,13 @@ gert::git_push(remote = "origin", force = TRUE)
 
 # Pulll ----
 
-gert::git_pull()
+gert::git_pull(remote = "origin")
 
 # Aborting commits ----
 
 gert::git_reset_mixed()
 
 gert::git_reset_soft(ref = "HEAD")
-
-gert::git_reset_hard(ref = "HEAD")
 
 # Rempvendo arquivos ----
 
