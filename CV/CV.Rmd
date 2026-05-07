@@ -13,7 +13,7 @@ output:
   vitae::twentyseconds
 always_allow_html: true
 header-includes:
-  - \renewcommand{\normalsize}{\fontsize{12.5}{12.5}\selectfont}
+  - \providecommand{\pandocbounded}[1]{#1}
 ---
 
 ```{r setup, include=FALSE}
@@ -111,3 +111,10 @@ tibble::tibble(Evento = c(rep("Semana Nacional da Ciência e Tecnologia", 2),
 ```{r}
 vitae::bibliography_entries("refs.bib")
 ```
+# Exemplo de trabalhos feitos 
+
+![](uso_cobertura_solo.png)
+
+![](cocorobensis_modelo.png)
+
+![](gg_espectro_oscilo.png)

@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.12.15)  6 MAY 2026 22:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.5.6)  6 MAY 2026 23:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **CV.tex
 (./CV.tex
 LaTeX2e <2025-11-01>
-L3 programming layer <2025-11-14>
+L3 programming layer <2026-03-20>
 (./twentysecondcv.cls
 Document Class: twentysecondcv 2018/11/24 CV class
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
@@ -23,7 +23,7 @@ File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \c@table=\count282
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
-\bibindent=\dimen148
+\bibindent=\dimen150
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/clearsans/ClearSans.sty
 Package: ClearSans 2025/03/27 (Bob Tennent) Supports Clear-Sans fonts for all LaTeX engines.
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
@@ -46,7 +46,8 @@ Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontaxes/fontaxes.sty
-Package: fontaxes 2025-05-24 v2.0.1 Font selection axes (deprecated)
+Package: fontaxes 2026-01-02 v2.0.2 Font selection axes (deprecated)
+Applying: [0000-00-00] Fall back to v1 on input line 76.
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontaxes/fontaxes-v1.sty
 Package: fontaxes 2020/07/21 v1.0e Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
@@ -73,8 +74,8 @@ LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 116.
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks22
-\pgfutil@tempdima=\dimen149
-\pgfutil@tempdimb=\dimen150
+\pgfutil@tempdima=\dimen151
+\pgfutil@tempdimb=\dimen152
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box53
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/pgf.revision.tex)
@@ -94,8 +95,8 @@ Package graphics Info: Driver file: pdftex.def on input line 106.
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen151
-\Gin@req@width=\dimen152
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
@@ -104,16 +105,16 @@ Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks25
 ))
-\pgf@x=\dimen153
-\pgf@y=\dimen154
-\pgf@xa=\dimen155
-\pgf@ya=\dimen156
-\pgf@xb=\dimen157
-\pgf@yb=\dimen158
-\pgf@xc=\dimen159
-\pgf@yc=\dimen160
-\pgf@xd=\dimen161
-\pgf@yd=\dimen162
+\pgf@x=\dimen155
+\pgf@y=\dimen156
+\pgf@xa=\dimen157
+\pgf@ya=\dimen158
+\pgf@xb=\dimen159
+\pgf@yb=\dimen160
+\pgf@xc=\dimen161
+\pgf@yc=\dimen162
+\pgf@xd=\dimen163
+\pgf@yd=\dimen164
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
 \c@pgf@counta=\count284
@@ -157,7 +158,7 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen163
+\pgfmath@dimen=\dimen165
 \pgfmath@count=\count291
 \pgfmath@box=\box54
 \pgfmath@toks=\toks29
@@ -167,28 +168,28 @@ Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
 \c@pgfmathroundto@lastzeros=\count292
 )) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@picminx=\dimen164
-\pgf@picmaxx=\dimen165
-\pgf@picminy=\dimen166
-\pgf@picmaxy=\dimen167
-\pgf@pathminx=\dimen168
-\pgf@pathmaxx=\dimen169
-\pgf@pathminy=\dimen170
-\pgf@pathmaxy=\dimen171
-\pgf@xx=\dimen172
-\pgf@xy=\dimen173
-\pgf@yx=\dimen174
-\pgf@yy=\dimen175
-\pgf@zx=\dimen176
-\pgf@zy=\dimen177
+\pgf@picminx=\dimen166
+\pgf@picmaxx=\dimen167
+\pgf@picminy=\dimen168
+\pgf@picmaxy=\dimen169
+\pgf@pathminx=\dimen170
+\pgf@pathmaxx=\dimen171
+\pgf@pathminy=\dimen172
+\pgf@pathmaxy=\dimen173
+\pgf@xx=\dimen174
+\pgf@xy=\dimen175
+\pgf@yx=\dimen176
+\pgf@yy=\dimen177
+\pgf@zx=\dimen178
+\pgf@zy=\dimen179
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@path@lastx=\dimen178
-\pgf@path@lasty=\dimen179
+\pgf@path@lastx=\dimen180
+\pgf@path@lasty=\dimen181
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@shorten@end@additional=\dimen180
-\pgf@shorten@start@additional=\dimen181
+\pgf@shorten@end@additional=\dimen182
+\pgf@shorten@start@additional=\dimen183
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfpic=\box55
@@ -197,12 +198,12 @@ File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@picture@serial@count=\count293
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgflinewidth=\dimen182
+\pgflinewidth=\dimen184
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@pt@x=\dimen183
-\pgf@pt@y=\dimen184
-\pgf@pt@temp=\dimen185
+\pgf@pt@x=\dimen185
+\pgf@pt@y=\dimen186
+\pgf@pt@temp=\dimen187
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
@@ -211,10 +212,10 @@ File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfarrowsep=\dimen186
+\pgfarrowsep=\dimen188
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@max=\dimen187
+\pgf@max=\dimen189
 \pgf@sys@shading@range@num=\count294
 \pgf@shadingcount=\count295
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
@@ -237,14 +238,14 @@ File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@nodesepstart=\dimen188
-\pgf@nodesepend=\dimen189
+\pgf@nodesepstart=\dimen190
+\pgf@nodesepend=\dimen191
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
 )) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/math/pgfmath.sty (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
-\pgffor@iter=\dimen190
-\pgffor@skip=\dimen191
+\pgffor@iter=\dimen192
+\pgffor@skip=\dimen193
 \pgffor@stack=\toks32
 \pgffor@toks=\toks33
 )) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
@@ -252,16 +253,16 @@ Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@plot@mark@count=\count296
-\pgfplotmarksize=\dimen192
+\pgfplotmarksize=\dimen194
 )
-\tikz@lastx=\dimen193
-\tikz@lasty=\dimen194
-\tikz@lastxsaved=\dimen195
-\tikz@lastysaved=\dimen196
-\tikz@lastmovetox=\dimen197
-\tikz@lastmovetoy=\dimen198
-\tikzleveldistance=\dimen199
-\tikzsiblingdistance=\dimen256
+\tikz@lastx=\dimen195
+\tikz@lasty=\dimen196
+\tikz@lastxsaved=\dimen197
+\tikz@lastysaved=\dimen198
+\tikz@lastmovetox=\dimen199
+\tikz@lastmovetoy=\dimen256
+\tikzleveldistance=\dimen257
+\tikzsiblingdistance=\dimen258
 \tikz@figbox=\box60
 \tikz@figbox@bg=\box61
 \tikz@tempbox=\box62
@@ -286,14 +287,14 @@ Package: textpos 2022/07/23 v1.10.1
 Package textpos Info: choosing support for LaTeX3 on input line 60.
 \TP@textbox=\box64
 \TP@holdbox=\box65
-\TPHorizModule=\dimen257
-\TPVertModule=\dimen258
-\TP@margin=\dimen259
-\TP@absmargin=\dimen260
+\TPHorizModule=\dimen259
+\TPVertModule=\dimen260
+\TP@margin=\dimen261
+\TP@absmargin=\dimen262
 Grid set 16 x 16 = 38.39343pt x 49.68562pt
-\TPboxrulesize=\dimen261
-\TP@ox=\dimen262
-\TP@oy=\dimen263
+\TPboxrulesize=\dimen263
+\TP@ox=\dimen264
+\TP@oy=\dimen265
 \TP@tbargs=\toks34
 TextBlockOrigin set to 0pt x 0pt
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/ragged2e/ragged2e.sty
@@ -330,21 +331,21 @@ Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
+Package: geometry 2026/03/07 v6.0 Page Geometry
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count306
 \Gm@cntv=\count307
 \c@Gm@tempcnt=\count308
-\Gm@bindingoffset=\dimen264
-\Gm@wd@mp=\dimen265
-\Gm@odd@mp=\dimen266
-\Gm@even@mp=\dimen267
-\Gm@layoutwidth=\dimen268
-\Gm@layoutheight=\dimen269
-\Gm@layouthoffset=\dimen270
-\Gm@layoutvoffset=\dimen271
+\Gm@bindingoffset=\dimen266
+\Gm@wd@mp=\dimen267
+\Gm@odd@mp=\dimen268
+\Gm@even@mp=\dimen269
+\Gm@layoutwidth=\dimen270
+\Gm@layoutheight=\dimen271
+\Gm@layouthoffset=\dimen272
+\Gm@layoutvoffset=\dimen273
 \Gm@dimlist=\toks35
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
@@ -370,7 +371,7 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \SectionTitleLength=\skip82
 \c@colorCounter=\count309
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+Package: hyperref 2026-04-24 v7.01q Hypertext links for LaTeX
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
@@ -386,7 +387,7 @@ Package pdftexcmds Info: \pdfdraftmode found.
 )) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
@@ -396,11 +397,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
-\@linkdim=\dimen272
+\@linkdim=\dimen274
 \Hy@linkcounter=\count311
 \Hy@pagecounter=\count312
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2026-04-24 v7.01q Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
@@ -408,46 +409,46 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count313
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2026-04-24 v7.01q Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4195.
-Package hyperref Info: Link nesting OFF on input line 4200.
-Package hyperref Info: Hyper index ON on input line 4203.
-Package hyperref Info: Plain pages OFF on input line 4210.
-Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Hyper figures OFF on input line 4199.
+Package hyperref Info: Link nesting OFF on input line 4204.
+Package hyperref Info: Hyper index ON on input line 4207.
+Package hyperref Info: Plain pages OFF on input line 4214.
+Package hyperref Info: Backreferencing OFF on input line 4219.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4462.
+Package hyperref Info: Bookmarks ON on input line 4466.
 \c@Hy@tempcnt=\count314
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4801.
-\XeTeXLinkMargin=\dimen273
+LaTeX Info: Redefining \url on input line 4805.
+\XeTeXLinkMargin=\dimen275
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count315
-\Field@Width=\dimen274
-\Fld@charsize=\dimen275
-Package hyperref Info: Hyper figures OFF on input line 6078.
-Package hyperref Info: Link nesting OFF on input line 6083.
-Package hyperref Info: Hyper index ON on input line 6086.
-Package hyperref Info: backreferencing OFF on input line 6093.
-Package hyperref Info: Link coloring OFF on input line 6098.
-Package hyperref Info: Link coloring with OCG OFF on input line 6103.
-Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Field@Width=\dimen276
+\Fld@charsize=\dimen277
+Package hyperref Info: Hyper figures OFF on input line 6091.
+Package hyperref Info: Link nesting OFF on input line 6096.
+Package hyperref Info: Hyper index ON on input line 6099.
+Package hyperref Info: backreferencing OFF on input line 6106.
+Package hyperref Info: Link coloring OFF on input line 6111.
+Package hyperref Info: Link coloring with OCG OFF on input line 6116.
+Package hyperref Info: PDF/A mode OFF on input line 6121.
 \Hy@abspage=\count316
 \c@Item=\count317
 \c@Hfootnote=\count318
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
+File: hpdftex.def 2026-04-24 v7.01q Hyperref driver for pdfTeX
 \Fld@listcount=\count319
 \c@bookmark@seq@number=\count320
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
@@ -489,23 +490,23 @@ Package csquotes Info: ... configuration file loaded successfully.
 File: csquotes.cfg 
 )) (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen276
-\lightrulewidth=\dimen277
-\cmidrulewidth=\dimen278
-\belowrulesep=\dimen279
-\belowbottomsep=\dimen280
-\aboverulesep=\dimen281
-\abovetopsep=\dimen282
-\cmidrulesep=\dimen283
-\cmidrulekern=\dimen284
-\defaultaddspace=\dimen285
+\heavyrulewidth=\dimen278
+\lightrulewidth=\dimen279
+\cmidrulewidth=\dimen280
+\belowrulesep=\dimen281
+\belowbottomsep=\dimen282
+\aboverulesep=\dimen283
+\abovetopsep=\dimen284
+\cmidrulesep=\dimen285
+\cmidrulekern=\dimen286
+\defaultaddspace=\dimen287
 \@cmidla=\count327
 \@cmidlb=\count328
-\@aboverulesep=\dimen286
-\@belowrulesep=\dimen287
+\@aboverulesep=\dimen288
+\@belowrulesep=\dimen289
 \@thisruleclass=\count329
 \@lastruleclass=\count330
-\@thisrulewidth=\dimen288
+\@thisrulewidth=\dimen290
 )
 \cslhangindent=\skip84
 \csllabelwidth=\skip85
@@ -513,8 +514,8 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
 \calc@Acount=\count331
 \calc@Bcount=\count332
-\calc@Adimen=\dimen289
-\calc@Bdimen=\dimen290
+\calc@Adimen=\dimen291
+\calc@Bdimen=\dimen292
 \calc@Askip=\skip86
 \calc@Bskip=\skip87
 LaTeX Info: Redefining \setlength on input line 86.
@@ -525,7 +526,7 @@ LaTeX Info: Redefining \addtolength on input line 87.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count334
 ) (./CV.aux)
 \openout1 = `CV.aux'.
@@ -548,8 +549,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 112.
 LaTeX Font Info:    ... okay on input line 112.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 112.
 LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' will be
-(Font)              scaled to size 12.5pt on input line 112.
 \c@mv@tabular=\count335
 \c@mv@boldtabular=\count336
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
@@ -611,41 +610,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--121
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' will be
 (Font)              scaled to size 14.4pt on input line 121.
-LaTeX Font Info:    Calculating math sizes for size <12.5> on input line 121.
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <12.5> not available
-(Font)              size <12> substituted on input line 121.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <12.5> not available
-(Font)              size <12> substituted on input line 121.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <12.5> not available
-(Font)              size <12> substituted on input line 121.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12.5> on input line 121.
+(Font)              <7> on input line 121.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8.74995> on input line 121.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6.25> on input line 121.
+(Font)              <5> on input line 121.
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 121.
 (c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 Underfull \hbox (badness 10000) in paragraph at lines 121--121
-[]\T1/ClearSans-TLF/m/n/12.5 Programa de Pós-
+[]\T1/ClearSans-TLF/m/n/10 Programa de Pós-Graduação
  []
 
 
-Underfull \hbox (badness 4673) in paragraph at lines 121--121
-\T1/ClearSans-TLF/m/n/12.5 Graduação em Bi-olo-gia
+Underfull \hbox (badness 1629) in paragraph at lines 121--121
+\T1/ClearSans-TLF/m/n/10 em Bi-olo-gia An-i-mal, De-par-ta-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--121
-\T1/ClearSans-TLF/m/n/12.5 Zo-olo-gia, Uni-ver-si-dade
+Underfull \hbox (badness 2556) in paragraph at lines 121--121
+\T1/ClearSans-TLF/m/n/10 mento de Zo-olo-gia, Uni-ver-si-
  []
 
 LaTeX Font Info:    Trying to load font information for T1+DejaVuSansMono-TLF on input line 121.
@@ -653,34 +637,9 @@ LaTeX Font Info:    Trying to load font information for T1+DejaVuSansMono-TLF on
 File: T1DejaVuSansMono-TLF.fd 2011/06/01 Font definitions for T1/DejaVuSansMono-TLF.
 )
 LaTeX Font Info:    Font shape `T1/DejaVuSansMono-TLF/m/n' will be
-(Font)              scaled to size 10.75pt on input line 121.
-
-Underfull \hbox (badness 10000) in paragraph at lines 121--121
-[][]$\T1/DejaVuSansMono-TLF/m/n/12.5 edsonbbiologia @ gmail .
- []
-
-
-Underfull \hbox (badness 1259) in paragraph at lines 128--137
-\T1/ClearSans-TLF/m/n/12.5 de ecolo-gia, con-ser-vação, movi-men-tação e dis-tribuição de
- []
-
-
-Underfull \hbox (badness 2005) in paragraph at lines 138--141
-[]\T1/ClearSans-TLF/m/n/12.5 Possuo con-hec-i-mento avançado em lin-guagem de pro-gra-
- []
-
-
-Underfull \hbox (badness 4205) in paragraph at lines 138--141
-\T1/ClearSans-TLF/m/n/12.5 geoes-pa-ci-ais, e con-hec-i-men-tos ini-ci-ais em lin-guagem de
- []
-
+(Font)              scaled to size 8.6pt on input line 121.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 151.
-
-Overfull \hbox (4.47093pt too wide) in alignment at lines 150--153
-[] []
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 150--154
 
@@ -693,30 +652,31 @@ LaTeX Font Info:    Trying to load font information for TS1+ClearSans-TLF on inp
 File: TS1ClearSans-TLF.fd 2025/03/27 (autoinst) Font definitions for TS1/ClearSans-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/ClearSans-TLF/m/n' will be
-(Font)              scaled to size 12.5pt on input line 162.
-[1
+(Font)              scaled to size 10.0pt on input line 162.
 
-{c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/clearsans/clr_zxbkm4.enc}{c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/clearsans/clr_bjsdl7.enc}{c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/dejavu/dejavumono_t1-type1.enc} <./edbbio.jpeg>]
 Underfull \hbox (badness 10000) in paragraph at lines 222--232
 
  []
 
+[1
+
+{c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/clearsans/clr_zxbkm4.enc}{c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/clearsans/clr_bjsdl7.enc}{c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/dejavu/dejavumono_t1-type1.enc} <./edbbio.jpeg>]
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/it' will be
-(Font)              scaled to size 12.5pt on input line 241.
+(Font)              scaled to size 10.0pt on input line 241.
+<CV_files/uso_cobertura_solo.png, id=21, 867.24pt x 867.24pt>
+File: CV_files/uso_cobertura_solo.png Graphic file (type png)
+<use CV_files/uso_cobertura_solo.png>
+Package pdftex.def Info: CV_files/uso_cobertura_solo.png  used on input line 282.
+(pdftex.def)             Requested size: 867.2379pt x 867.2379pt.
 
-Underfull \hbox (badness 2865) in paragraph at lines 251--251
-[]|\T1/ClearSans-TLF/m/n/12.5 M. Silva-Júnior, E. N. de, Mascarenhas-Junior, P. B.,
- []
-
-
-Underfull \hbox (badness 1590) in paragraph at lines 251--251
-\T1/ClearSans-TLF/m/n/12.5 Leandro-Silva, V., & Simões, P. I. (2026). Mod-el-ing
+Overfull \hbox (514.42387pt too wide) in paragraph at lines 282--283
+[][] 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sl' in size <10> not available
-(Font)              Font shape `T1/ClearSans-TLF/m/it' tried instead on input line 281.
+(Font)              Font shape `T1/ClearSans-TLF/m/it' tried instead on input line 284.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 281.
+(Font)              scaled to size 10.0pt on input line 284.
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
@@ -729,32 +689,89 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 15.4pt, for example:
 (fancyhdr)                \setlength{\footskip}{15.4pt}.
 
-[2] (./CV.aux)
+[2]
+Overfull \vbox (27.88194pt too high) has occurred while \output is active []
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 15.4pt, for example:
+(fancyhdr)                \setlength{\footskip}{15.4pt}.
+
+[3 <./CV_files/uso_cobertura_solo.png>]
+<CV_files/cocorobensis_modelo.png, id=39, 722.7pt x 505.89pt>
+File: CV_files/cocorobensis_modelo.png Graphic file (type png)
+<use CV_files/cocorobensis_modelo.png>
+Package pdftex.def Info: CV_files/cocorobensis_modelo.png  used on input line 284.
+(pdftex.def)             Requested size: 722.69823pt x 505.88875pt.
+
+Overfull \hbox (369.8842pt too wide) in paragraph at lines 284--285
+[][] 
+ []
+
+<CV_files/gg_espectro_oscilo.png, id=40, 867.24pt x 722.7pt>
+File: CV_files/gg_espectro_oscilo.png Graphic file (type png)
+<use CV_files/gg_espectro_oscilo.png>
+Package pdftex.def Info: CV_files/gg_espectro_oscilo.png  used on input line 286.
+(pdftex.def)             Requested size: 867.2379pt x 722.69823pt.
+
+Overfull \hbox (514.42387pt too wide) in paragraph at lines 286--287
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 15.4pt, for example:
+(fancyhdr)                \setlength{\footskip}{15.4pt}.
+
+[4 <./CV_files/cocorobensis_modelo.png>]
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 15.4pt, for example:
+(fancyhdr)                \setlength{\footskip}{15.4pt}.
+
+[5 <./CV_files/gg_espectro_oscilo.png>] (./CV.aux)
  ***********
 LaTeX2e <2025-11-01>
-L3 programming layer <2025-11-14>
+L3 programming layer <2026-03-20>
  ***********
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.5pt have occurred.
-
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  )
 (\end occurred when \ifnum on line 31 was incomplete) 
 Here is how much of TeX's memory you used:
- 23362 strings out of 469519
- 436420 string characters out of 5468163
- 835290 words of memory out of 5000000
- 51598 multiletter control sequences out of 15000+600000
- 678546 words of font info for 69 fonts, out of 8000000 for 9000
+ 23390 strings out of 469339
+ 438376 string characters out of 5464776
+ 843827 words of memory out of 5000000
+ 51812 multiletter control sequences out of 15000+600000
+ 664495 words of font info for 57 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 117i,11n,121p,580b,781s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,12n,121p,580b,781s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/truetype/intel/clearsans/ClearSans-Regular.ttf><c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/truetype/intel/clearsans/ClearSans-Regular.ttf><c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb><c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono.pfb><c:/Users/LENOVO/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb>
-Output written on CV.pdf (2 pages, 216478 bytes).
+Output written on CV.pdf (5 pages, 11740061 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 78 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
