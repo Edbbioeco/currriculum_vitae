@@ -69,8 +69,10 @@ tibble::tibble(Grau = c("Bacharel em Ciências Biológicas",
 -   Linguagem R: automação de processos seriados, por meio de purrr;
 -   Linguagem R: modelagem e análises de dados de abertura de dossel;
 -   Linguagem R: modelagem e criação de dados geoespaciais;
+-   Linguagem R: Machine Learning aplicados a dados ambientais;
 -   Google Earth Pro: modelagem e criação de objetos e dados geoespaciais;
 -   QGIS: modelagem e criação de objetos e dados geoespaciais, criação e confecção de mapas.
+-   Git: versionamento de código e controle de repositórios em GitHub.
 
 # Participação em Eventos
 
