@@ -14,7 +14,6 @@ output:
 always_allow_html: true
 header-includes:
   - \providecommand{\pandocbounded}[1]{#1}
-  - \usepackage{graphicx}
 ---
 
 ```{r setup, include=FALSE}
@@ -114,8 +113,19 @@ vitae::bibliography_entries("refs.bib")
 ```
 # Exemplo de trabalhos feitos 
 
-![](uso_cobertura_solo.png)
+```{r, echo=FALSE, out.width="100%", fig.cap="Classificação de paisagens através de modelos de Machine Learning por Random Forest"}
+knitr::include_graphics("uso_cobertura_solo.png")
+```
 
-![](cocorobensis_modelo.png)
+\vspace{10pt}
 
-![](gg_espectro_oscilo.png)
+```{r, echo=FALSE, out.width="100%", fig.cap="Modelo de distribuição de espécies para o Nordeste BraBrasileiro."}
+knitr::include_graphics("cocorobensis_modelo.png")
+```
+
+\vspace{10pt}
+
+```{r, echo=FALSE, out.width="100%", fig.cap="Visualização de vocalização de espécies por espectrograma e oscilograma."}
+knitr::include_graphics("gg_espectro_oscilo.png")
+
+```
