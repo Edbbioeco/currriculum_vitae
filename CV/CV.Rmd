@@ -113,8 +113,8 @@ vitae::bibliography_entries("refs.bib")
 ```
 # Exemplo de trabalhos feitos 
 
-![](uso_cobertura_solo.png)
+![](uso_cobertura_solo.png){width=0.8\linewidth}
 
-![](cocorobensis_modelo.png)
+![](cocorobensis_modelo.png){width=0.8\linewidth}
 
-![](gg_espectro_oscilo.png)
+![](gg_espectro_oscilo.png){width=0.8\linewidth}
