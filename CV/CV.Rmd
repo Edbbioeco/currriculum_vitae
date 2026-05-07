@@ -14,6 +14,7 @@ output:
 always_allow_html: true
 header-includes:
   - \providecommand{\pandocbounded}[1]{#1}
+  - \usepackage{graphicx}
 ---
 
 ```{r setup, include=FALSE}
@@ -113,8 +114,8 @@ vitae::bibliography_entries("refs.bib")
 ```
 # Exemplo de trabalhos feitos 
 
-![](uso_cobertura_solo.png){width=0.8\linewidth}
+![](uso_cobertura_solo.png)
 
-![](cocorobensis_modelo.png){width=0.8\linewidth}
+![](cocorobensis_modelo.png)
 
-![](gg_espectro_oscilo.png){width=0.8\linewidth}
+![](gg_espectro_oscilo.png)
